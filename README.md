@@ -13,6 +13,9 @@ This project implements a modern data pipeline for scraping news articles from D
 4. Apache Airflow
 5. Docker
 
+## Scripts for project
+[ETL Python File](detik_news_data_pipeline_airflow.py)
+
 
 
 
